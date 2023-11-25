@@ -1,4 +1,4 @@
-## Oiii eu sou Ruan Victor, desenvolvedor Front-end!
+## Oi eu sou Ruan Victor, desenvolvedor Front-end!
 <div>
   <p>
     Olá, me chamo Ruan, atualmente curso análise e desenvolvimento de sistemas. Sou um desenvolvedor em busca de conhecimento e aperfeiçoamento. Atualmente estudo as linguagens Javascript e Python. Junto a isso também estudo alguns frameworks como Django e React.
@@ -26,13 +26,8 @@
   <img height="165em%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanovski&layout=compact&langs_count=7&theme=dark"/>
 </div>
   </br>
-  </br>
-  </br>
-  
   ##
 <div> 
   <a href = "mailto:ruanvic21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ruanvictor21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
 </div>
