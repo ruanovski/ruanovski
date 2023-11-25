@@ -1,7 +1,7 @@
 ## Oiii eu sou Ruan Victor, desenvolvedor Front-end!
 <div>
   <p>
-    Olá, me chamo Ruan, atualmente curso análise e desenvolvimento de sistemas. Sou um desenvolvedor em busca de conhecimento e aperfeiçoamento. Atualmente estudo as         tecnologias de front-end e tento construir algumas aplicações.
+    Olá, me chamo Ruan, atualmente curso análise e desenvolvimento de sistemas. Sou um desenvolvedor em busca de conhecimento e aperfeiçoamento. Atualmente estudo as linguagens Javascript e Python. Junto a isso também estudo alguns frameworks como Django e React.
    </p>
 </br> 
   <p>Fique à vontade para dar uma olhada nos projetos!!!</p>
